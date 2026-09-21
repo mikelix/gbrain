@@ -2,6 +2,21 @@
 
 **Give the agent you already use a memory you control.** GBrain stores explicit facts with their sources, supports corrections and withdrawal, and makes the same memory available across your agents. Start with keyless memory and keyword retrieval; add semantic search, synthesis, and background enrichment when you need them.
 
+https://youtu.be/OuSeXW-IQ30?si=LannlnrlCUsrgDki
+GBrain完整教程：YC CEO的AI Agent大脑，自布线知识图谱+混合搜索+合成答案模式全解析
+
+国外 OpenAI Voyage AI ZeroEntropy 
+国内 Alibaba DashScope, Zhipu, MiniMax
+本地 Ollama, llama.cpp
+
+ZeroEntropy zerank-2
+Llama server reranker, Qwen3-Reranker
+
+
+
+
+
+
 ## Choose your setup
 
 1. **Add GBrain to my existing agent — recommended.** Keep your agent's identity and save memory inside its environment. No new personal-agent identity or private repository is required. Start with the guide for **[Grok Bot](docs/guides/grok-bot.md)**, **[Muse](docs/guides/muse.md)**, or **[Codex / Claude Code](docs/tutorials/connect-coding-agent.md)**. [Other harnesses](#connect-gbrain-to-your-ai-client-mcp).
